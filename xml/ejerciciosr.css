@@ -1,0 +1,15 @@
+/* ejemplo1.css   SUCARNET  */
+fichero{
+    word-spacing: 0.25em;   
+ }
+fichero {background-color:gray;}
+ficha {color:white; display:inline;} 
+nombre {color:white; display:inline;} 
+apellido {color:white; display:inline;}
+direccion {color:white; display:block;}
+telefono {color:white; display:block;}
+email{color:white; display:block;}
+url{color:white; display:block;}
+dui{color:white; display:block;}
+afp{color:white; display:block;}
+isss{color:white; display:block;}

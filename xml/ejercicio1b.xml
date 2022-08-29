@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet type="text/css" href="ejerciciosr.css" ?>
+<!-- ejemplo1.xml  SUCARNET -->
+<fichero>
+<ficha id="1" fechaingreso="1/11/2012">
+<nombre>nombre: Antonio</nombre>
+<apellido>Barbero</apellido>
+<direccion>direccion: Calle de Los Andes, 45</direccion>
+</ficha>
+<ficha id="2" fechaingreso="1/11/2013">
+<nombre>nombre: MARCOS</nombre>
+<apellido>Barbero</apellido>
+<direccion>direccion: Calle de el espino, 67</direccion>
+<telefono>telefono: 56565656</telefono>
+<email>email: todoprueba@gmail.com</email>
+<url>url: ttodoprueba.com</url>
+</ficha>
+<ficha id="3" fechaingreso="1/11/2014">
+<nombre>nombre: Mario</nombre>
+<apellido>Cuellar</apellido>
+<direccion>direccion: Calle de Los naranjos, 34</direccion>
+<telefono>telefono: 56565656</telefono>
+<email>email: todoprueba@gmail.com</email>
+<url>url: ttodoprueba.com</url>
+<dui>dui: 12345679-9</dui>
+<afp>afp: 466798987756445</afp>
+<isss>isss: 9485774490303030</isss>
+</ficha>
+</fichero>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet type="text/css" href="ejemplo2.css" ?>
+<!-- ejemplo2.xml  SUCARNET -->
+<pais nombre="El Salvador">
+<departamento id="1" nombre="San Salvador">
+<cabecera>CABEZERA: San Salvador</cabecera>
+<habitantes>HABITANTES: 1,700,000</habitantes>
+<altura>ALTURA: 545 MSNM</altura>
+</departamento>
+<departamento id="2" nombre="San Miguel">
+<cabecera>CABECERA: San Miguell</cabecera>
+<habitantes>HABITANTES: 265,921</habitantes>
+<altura>ALTURA: 456 MSNM</altura>
+<monedas>MONDEA: dolar</monedas>
+<codiigoArea>CODIGO AREA: 123-2</codiigoArea>
+<idioma>IDIOMAS: oficial: español, autoctono: nahuat, segundo:ingles</idioma>
+</departamento>
+</pais>

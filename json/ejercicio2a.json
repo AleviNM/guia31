@@ -1,0 +1,24 @@
+{
+	"pais":{
+		"@nombre":"El Salvador",
+		"departamento":[
+			{
+				"@id":"1",
+				"@nombre":"San Salvador",
+				"cabecera":"CABEZERA: San Salvador",
+				"habitantes":"HABITANTES: 1,700,000",
+				"altura":"ALTURA: 545 MSNM"
+			},
+			{
+				"@id":"2",
+				"@nombre":"San Miguel",
+				"cabecera":"CABECERA: San Miguell",
+				"habitantes":"HABITANTES: 265,921",
+				"altura":"ALTURA: 456 MSNM",
+				"monedas":"MONDEA: dolar",
+				"codiigoArea":"CODIGO AREA: 123-2",
+				"idioma":"IDIOMAS: oficial: español, autoctono: nahuat, segundo:ingles"
+			}
+		]
+	}
+}
